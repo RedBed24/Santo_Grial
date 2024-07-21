@@ -1,0 +1,6 @@
+# Ignore target directory
+target/
+
+# Ignore custom pandoc install
+pandoc
+
