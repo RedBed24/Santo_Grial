@@ -11,7 +11,7 @@ Sistema de reconocimiento de imágenes.
 Usa fors anidados para recorrer una imagen grande dividiéndola en trozos para comparar con una imagen de referencia quedandose con aquella división que sea más parecida.
 
 - [Trabajo completo con datos para ejecución y enunciados](https://github.com/RedBed24/Calculo_Matlab_2122)
-- [Trabajo completo con datos para ejecución y enunciados (versión de otro alumno)](https://github.com/hnevesg/Calculo_Lab_2122)
+- [Trabajo completo con datos para ejecución y enunciados](https://github.com/hnevesg/Calculo_Lab_2122)
 
 ### Curso 22-23
 
