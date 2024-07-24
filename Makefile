@@ -5,13 +5,14 @@ BUILD_DIR := target/
 PANDOC_EXE := ./pandoc
 PANDOC_FLAGS := --mathjax -s --toc --template=template/base.html
 
-HTML := $(BUILD_DIR)index.html $(foreach n,1 2 3 4,$(BUILD_DIR)$n_curso/index.html) $(foreach n,1 2 3 4,$(foreach c,1 2,$(BUILD_DIR)$n_curso/$c_cuatri/index.html)) $(foreach asignatura,progi calculo empresas teco fisica,$(BUILD_DIR)1_curso/1_cuatri/$(asignatura)/index.html)
+HTML := $(BUILD_DIR)index.html $(foreach n,1 2 3 4,$(BUILD_DIR)$n_curso/index.html) $(foreach n,1 2 3 4,$(foreach c,1 2,$(BUILD_DIR)$n_curso/$c_cuatri/index.html)) $(foreach asignatura,progi calculo empresas teco fisica,$(BUILD_DIR)1_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,eco redesi progii               sistemas_info algebra,$(BUILD_DIR)1_curso/2_cuatri/$(asignatura)/index.html)
 
 all: dirs $(HTML)
 
 dirs:
 	mkdir -p $(BUILD_DIR){1..4}_curso/{1,2}_cuatri
 	mkdir -p $(BUILD_DIR)1_curso/1_cuatri/{progi,calculo,empresas,teco,fisica}
+	mkdir -p $(BUILD_DIR)1_curso/2_cuatri/{eco,redesi,progii,sistemas_info,algebra}
 
 pandoc:
 	wget https://github.com/jgm/pandoc/releases/download/3.1.11.1/pandoc-3.1.11.1-linux-amd64.tar.gz
