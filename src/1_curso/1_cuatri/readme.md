@@ -5,7 +5,7 @@ lang: es-ES
 
 ## Asignaturas
 
-- [Progamación I](prog)
+- [Progamación I](progi)
 - [Cálculo](calculo)
 - [Empresas](empresas)
 - [Teco](teco)

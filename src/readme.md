@@ -8,7 +8,7 @@ lang: es-ES
 
 1. [Primer curso](1_curso)
    1. [Primer cuatri](1_curso/1_cuatri)
-      - [Progamación I](1_curso/1_cuatri/prog)
+      - [Progamación I](1_curso/1_cuatri/progi)
       - [Cálculo](1_curso/1_cuatri/calculo)
       - [Empresas](1_curso/1_cuatri/empresas)
       - [Teco](1_curso/1_cuatri/teco)

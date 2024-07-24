@@ -6,7 +6,7 @@ lang: es-ES
 ## Asignaturas
 
 1. [Primer cuatri](1_cuatri)
-   - [Progamación I](1_cuatri/prog)
+   - [Progamación I](1_cuatri/progi)
    - [Cálculo](1_cuatri/calculo)
    - [Empresas](1_cuatri/empresas)
    - [Teco](1_cuatri/teco)
