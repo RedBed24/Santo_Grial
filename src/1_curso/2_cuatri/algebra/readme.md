@@ -11,6 +11,7 @@ Sistema de navegación.
 Recorrido y muestra de grafos, edición de aristas.
 
 - [Trabajo completo con datos y enunciado](https://github.com/RedBed24/Algebra_Matlab_2122)
+- [Trabajo completo con datos y enunciado](https://github.com/RedBed24/Algebra_Matlab_2122) [En inglés]
 
 ### Curso 22-23
 
@@ -30,3 +31,5 @@ Implementación y comparación de diferentes algoritmos de creación de grafos m
 ### Componentes fuertemente conexas
 
 - [Código Matlab documentado que resuelve todo](https://github.com/RedBed24/Algebra_Exposicion_2122)
+### Grafos y circuitos de Euler y de Hamilton 
+- [Código Matlab documentado que resuelve todo](https://github.com/hnevesg/Algebra_Voluntario_2122) [En inglés]
