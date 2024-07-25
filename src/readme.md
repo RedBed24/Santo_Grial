@@ -2,6 +2,7 @@
 title: El Santo Grial
 abstract: Índice general de recursos para la carrera de Ingeniería Informática de Ciudad Real.
 lang: es-ES
+keywords: [ESI, Escuela Superior Informatica, UCLM, Universidad Castilla La Mancha, Informatica, Apuntes]
 ---
 
 ## Asignaturas
