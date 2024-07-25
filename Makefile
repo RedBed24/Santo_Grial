@@ -3,7 +3,7 @@ SRC_DIR := src/
 BUILD_DIR := target/
 
 PANDOC_EXE := ./pandoc
-PANDOC_FLAGS := --mathjax -s --toc --template=template/base.html
+PANDOC_FLAGS := --mathjax -s --toc --template=template/base.html --include-after-body=template/help-us.html
 
 HTML := $(BUILD_DIR)index.html $(foreach n,1 2 3 4,$(BUILD_DIR)$n_curso/index.html) $(foreach n,1 2 3 4,$(foreach c,1 2,$(BUILD_DIR)$n_curso/$c_cuatri/index.html)) $(foreach asignatura,progi calculo empresas teco fisica,$(BUILD_DIR)1_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,eco redesi progii               sistemas_info algebra,$(BUILD_DIR)1_curso/2_cuatri/$(asignatura)/index.html) $(foreach asignatura,ssoo logica eda isoi orco,$(BUILD_DIR)2_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,pctr estadistica redesii metodologia bbdd,$(BUILD_DIR)2_curso/2_cuatri/$(asignatura)/index.html) $(foreach asignatura,arco distribuidos inteligentes isoii ipoi,$(BUILD_DIR)3_curso/1_cuatri/$(asignatura)/index.html)
 
