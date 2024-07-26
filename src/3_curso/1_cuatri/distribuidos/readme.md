@@ -1,6 +1,5 @@
 ---
 title: Sistemas Distribuídos
-lang: es-ES
 ---
 
 ## Lab

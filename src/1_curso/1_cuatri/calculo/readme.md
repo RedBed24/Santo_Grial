@@ -1,6 +1,5 @@
 ---
 title: Cálculo
-lang: es-ES
 ---
 
 ## Trabajo Matlab

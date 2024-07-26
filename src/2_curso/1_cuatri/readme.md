@@ -1,6 +1,5 @@
 ---
 title: Segundo, primer cuatri
-lang: es-ES
 ---
 
 ## Asignaturas

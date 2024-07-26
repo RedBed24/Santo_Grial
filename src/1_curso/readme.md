@@ -1,6 +1,5 @@
 ---
 title: Primer curso
-lang: es-ES
 ---
 
 ## Asignaturas

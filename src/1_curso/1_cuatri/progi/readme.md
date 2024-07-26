@@ -1,6 +1,5 @@
 ---
 title: Fundamentos de la programación
-lang: es-ES
 ---
 
 ## Trabajo teórico

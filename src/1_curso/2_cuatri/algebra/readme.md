@@ -1,6 +1,5 @@
 ---
 title: Álgebra y matemáticas discretas
-lang: es-ES
 ---
 
 ## Trabajo Matlab

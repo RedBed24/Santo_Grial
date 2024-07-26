@@ -1,6 +1,5 @@
 ---
 title: Segundo curso
-lang: es-ES
 ---
 
 ## Asignaturas

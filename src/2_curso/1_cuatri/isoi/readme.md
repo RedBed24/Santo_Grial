@@ -1,6 +1,5 @@
 ---
 title: Ingeniería del Software I
-lang: es-ES
 ---
 
 ## Legacy Proyect

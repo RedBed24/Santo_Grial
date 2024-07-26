@@ -1,6 +1,5 @@
 ---
 title: Bases de Datos
-lang: es-ES
 ---
 
 ## Lab 1

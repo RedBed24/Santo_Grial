@@ -1,6 +1,5 @@
 ---
 title: Sistemas Inteligentes
-lang: es-ES
 ---
 
 ## Lab

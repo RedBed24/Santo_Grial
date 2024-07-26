@@ -1,6 +1,5 @@
 ---
 title: Ingeniería del Software II
-lang: es-ES
 ---
 
 ## Test Fusilamiento

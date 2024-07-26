@@ -1,6 +1,5 @@
 ---
 title: Tecnología de Computadores
-lang: en-EN
 ---
 
 ## Prácticas Lab y Exámenes Lab

@@ -1,6 +1,5 @@
 ---
 title: Redes de Computadores I
-lang: en-EN
 ---
 
 ## Diseño de una infraestructura de red local y análisis del tráfico

@@ -1,6 +1,5 @@
 ---
 title: Interacción Persona Ordenador I
-lang: es-ES
 ---
 
 ## Trabajo Lab

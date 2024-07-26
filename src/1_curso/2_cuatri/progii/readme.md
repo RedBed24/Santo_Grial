@@ -1,6 +1,5 @@
 ---
 title: Fundamentos de Programación II
-lang: en-EN
 ---
 
 ## Práctica Lab

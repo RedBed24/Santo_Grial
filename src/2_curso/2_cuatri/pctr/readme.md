@@ -1,6 +1,5 @@
 ---
 title: Programación Concurrente y Tiempo Real
-lang: es-ES
 ---
 
 ## Ada

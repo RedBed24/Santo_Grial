@@ -1,6 +1,5 @@
 ---
 title: Tercero, primer cuatri
-lang: es-ES
 ---
 
 ## Asignaturas

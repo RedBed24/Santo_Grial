@@ -1,6 +1,5 @@
 ---
 title: Tercer curso
-lang: es-ES
 ---
 
 ## Asignaturas

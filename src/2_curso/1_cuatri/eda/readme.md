@@ -1,6 +1,5 @@
 ---
 title: Estructura de Datos
-lang: es-ES
 ---
 
 ## Lab

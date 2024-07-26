@@ -1,6 +1,5 @@
 ---
 title: Redes de Computadores II
-lang: es-ES
 ---
 
 ## Gymkhana

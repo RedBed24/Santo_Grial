@@ -1,6 +1,5 @@
 ---
 title: Metodología de la Programación
-lang: es-ES
 ---
 
 ## Labs
