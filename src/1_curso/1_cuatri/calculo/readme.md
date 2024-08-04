@@ -23,3 +23,4 @@ Implementación de diferentes modelos de simulación de sistemas de población.
 
 ## Ejercicios de límites, monotonicidad y primitivas
 - [Ejercicios Resueltos](https://github.com/hnevesg/Calculo_Voluntario_2122)
+- [Ejercicios Resueltos](https://github.com/H4mbl3x/Ejercicios_Entregables_Calculo_2022_23)
