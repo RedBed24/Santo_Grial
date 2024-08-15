@@ -2,6 +2,13 @@
 title: Sistemas Distribuídos
 ---
 
+## Exámenes
+
+Al igual que en redes II, los profesores nos han hecho el trabajo.
+Muchas gracias <3.
+
+- [Repo con todos los examenes, ambos parciales, corregidos y sin corregir](https://github.com/UCLM-ARCO/past-exams/tree/master/ssdd)
+
 ## Lab
 
 ### Curso 23-24
