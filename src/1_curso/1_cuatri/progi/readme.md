@@ -8,6 +8,10 @@ title: Fundamentos de la programación
 
 - [Proyecto eclipse/visual studio code con memoria](https://github.com/RedBed24/ProgI_Trabajo_2122)
 
+### MasterMind
+
+- [Enunciado, Código Fuente y Memoria del Trabajo Teórico](https://github.com/H4mbl3x/Prog1_Trabajo_Teorico_2022_23) [En inglés]
+
 ## Prácticas Lab y Examen Lab
 
 ### Curso 21-22
