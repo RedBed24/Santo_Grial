@@ -5,7 +5,7 @@ BUILD_DIR := target/
 PANDOC_EXE := ./pandoc
 PANDOC_FLAGS := --mathjax -s --toc --template=template/base.html --include-after-body=template/help-us.html --metadata=lang:es-ES
 
-HTML := $(BUILD_DIR)index.html $(foreach n,1 2 3 4,$(BUILD_DIR)$n_curso/index.html) $(foreach n,1 2 3 4,$(foreach c,1 2,$(BUILD_DIR)$n_curso/$c_cuatri/index.html)) $(foreach asignatura,progi calculo empresas teco fisica,$(BUILD_DIR)1_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,eco redesi progii sistemas_info algebra,$(BUILD_DIR)1_curso/2_cuatri/$(asignatura)/index.html) $(foreach asignatura,ssoo logica eda isoi orco,$(BUILD_DIR)2_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,pctr estadistica redesii metodologia bbdd,$(BUILD_DIR)2_curso/2_cuatri/$(asignatura)/index.html) $(foreach asignatura,arco distribuidos inteligentes isoii ipoi,$(BUILD_DIR)3_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,api computacion computadores iso ti,$(BUILD_DIR)3_curso/2_cuatri/$(asignatura)/index.html) $(foreach asignatura,declarativa basados algoritmos automatas,$(BUILD_DIR)3_curso/2_cuatri/computacion/$(asignatura)/index.html)  $(foreach asignatura,micro ssooii dir gyar,$(BUILD_DIR)3_curso/2_cuatri/computadores/$(asignatura)/index.html) $(foreach asignatura,computacion computadores iso ti,$(BUILD_DIR)4_curso/1_cuatri/$(asignatura)/index.html)
+HTML := $(BUILD_DIR)index.html $(foreach n,1 2 3 4,$(BUILD_DIR)$n_curso/index.html) $(foreach n,1 2 3 4,$(foreach c,1 2,$(BUILD_DIR)$n_curso/$c_cuatri/index.html)) $(foreach asignatura,progi calculo empresas teco fisica,$(BUILD_DIR)1_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,eco redesi progii sistemas_info algebra,$(BUILD_DIR)1_curso/2_cuatri/$(asignatura)/index.html) $(foreach asignatura,ssoo logica eda isoi orco,$(BUILD_DIR)2_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,pctr estadistica redesii metodologia bbdd,$(BUILD_DIR)2_curso/2_cuatri/$(asignatura)/index.html) $(foreach asignatura,arco distribuidos inteligentes isoii ipoi,$(BUILD_DIR)3_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura,api computacion computadores iso ti,$(BUILD_DIR)3_curso/2_cuatri/$(asignatura)/index.html) $(foreach asignatura,declarativa basados algoritmos automatas,$(BUILD_DIR)3_curso/2_cuatri/computacion/$(asignatura)/index.html)  $(foreach asignatura,micro ssooii dir gyar,$(BUILD_DIR)3_curso/2_cuatri/computadores/$(asignatura)/index.html) $(foreach asignatura,computacion computadores iso ti,$(BUILD_DIR)4_curso/1_cuatri/$(asignatura)/index.html) $(foreach asignatura, interactivos multiagentes procesadores mineria, $(BUILD_DIR)4_curos/1_cuatri/compotacion/$(asignatura)/index.html)
 
 all: dirs $(HTML)
 
@@ -21,7 +21,7 @@ dirs:
 	mkdir -p $(BUILD_DIR)3_curso/2_cuatri/computadores/{micro,ssooii,dir,gyar}
 	mkdir -p $(BUILD_DIR)3_curso/2_cuatri/iso/
 	mkdir -p $(BUILD_DIR)3_curso/2_cuatri/ti/
-	mkdir -p $(BUILD_DIR)4_curso/1_cuatri/computacion/
+	mkdir -p $(BUILD_DIR)4_curso/1_cuatri/computacion/{interactivos,multiagentes,procesadores,mineria}
 	mkdir -p $(BUILD_DIR)4_curso/1_cuatri/computadores/
 	mkdir -p $(BUILD_DIR)4_curso/1_cuatri/iso/
 	mkdir -p $(BUILD_DIR)4_curso/1_cuatri/ti/
