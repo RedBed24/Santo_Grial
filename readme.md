@@ -9,6 +9,10 @@ lang: es-ES
 linkcolor: blue
 ---
 
+Puedes ver el proyecto de una forma más amigable en las [pages](https://redbed24.github.io/Santo_Grial/).
+
+## Resumen
+
 Este repositorio recoge los archivos fuente usados para crear y publicar el tercer "Santo Grial".
 Inspirado en otros proyectos como el [mega de apuntes](https://mega.nz/folder/4eBk3JJB#XZXXUbJ9f0qTui-Jo8i8tw), el [drive oficial de examenes de la DAI](https://drive.google.com/drive/folders/1351xo0_p9Ahvw6R-_x6ATH04Vt0oKLx-).
 El nombre viene a partir de los otros "Santos Griales", una recolección de preguntas de diferentes asignaturas.
