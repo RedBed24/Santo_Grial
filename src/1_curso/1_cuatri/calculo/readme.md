@@ -6,6 +6,7 @@ title: Cálculo
 
 - [Conglomerado de apuntes del campus curso 16-17, 3 bloques](https://mega.nz/folder/4eBk3JJB#XZXXUbJ9f0qTui-Jo8i8tw/folder/0fwQmQQQ)
 - [Apuntes academia científica, 3 bloques](https://mega.nz/folder/4eBk3JJB#XZXXUbJ9f0qTui-Jo8i8tw/folder/5P5yEYJJ)
+- [Macro Resumen Parciales 1 y 2](https://drive.google.com/drive/folders/1Z2qaJhiDRl_-2JH8WwEEmPJ7EiLX8KYh?usp=sharing)
 
 ## Exámenes Teoría
 
