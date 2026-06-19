@@ -23,3 +23,8 @@ title: Fundamentos de la programación
 ### Curso 22-23
 
 - [Entregas y Examen del Laboratorio](https://github.com/H4mbl3x/Prog1_Laboratorio_2022_23) [En inglés]
+
+### Curso 24-25
+
+- [Entregas de laboratorio](https://github.com/MarcosLorCar/programming-labs) [En inglés]
+- [Trabajo teórico](https://github.com/MarcosLorCar/programming-work) [En inglés]
